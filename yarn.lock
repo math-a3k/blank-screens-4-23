@@ -1239,6 +1239,9 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/captcha@file:./screens/captcha":
+  version "1.0.0"
+
 "@screens/captcha@file:./screens/captcha/":
   version "1.0.0"
 
